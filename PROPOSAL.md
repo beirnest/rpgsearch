@@ -22,7 +22,7 @@ The project will be completed using React Router for the front end, Node/Express
 
 - Connect with Amazon Product API to automatically generate affiliate links for users to purchase products on Amazon
 
-- Scrape data from BGG API to create own product database and API
+- Scrape data from various sources to create own product database and API
 
 - Allow users to add systems and products to database
 
