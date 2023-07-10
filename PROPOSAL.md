@@ -15,7 +15,8 @@ The project will be completed using React Router for the front end, Node/Express
 - View information about single products that are produced for specific game systems
 
 - Create and share collections of products
-Suggest items with similar game systems or genres for users to discover new games
+
+- Suggest items with similar game systems or genres for users to discover new games
 
 ## Stretch Goals ##
 
