@@ -37,4 +37,8 @@ The database will be relatively simple, with tables for Users, Collections, and 
 
 ## Home Page Mockup ##
 
-![](./images/mockup.png)
+![](./images/homemockup.png)
+
+## System Page Mockup ##
+
+![](./images/systemmockup.png)
